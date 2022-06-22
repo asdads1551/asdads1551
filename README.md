@@ -1,8 +1,11 @@
-<h1> Hi there 👋</h1>
+<h1> Hi I'm Janus 👋</h1>
+
+<p>this is my myself intro </p>
+<p> !!! continue Update </p>
 
 <!--
 **asdads1551/asdads1551** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,7 +16,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
 
 <h2> Languages </h2>
 <h2> Frontend Skills </h2>
