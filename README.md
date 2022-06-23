@@ -1,6 +1,6 @@
 <h1> Hi I'm Janus 👋</h1>
 
-<p>this is my myself intro </p>
+<p>this is myself intro </p>
 <p> !!! continue Update </p>
 
 
